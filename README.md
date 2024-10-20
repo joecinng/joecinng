@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joe Cin Ng</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/6b06a38e84212c55eac1ef33dbd3d318.gif">
 
-- 🌱 I’m currently learning **Android**
-
-- 👀 I’m interested in Android and web development
+- 🌱 I’m currently learning **Android, Web Development and DevOps**
 
 - 📫 How to reach me **ngjoecin@gmail.com**
+
+- My portfolio: <a href="https://joecinng.com">Link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
