@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ngjoecin@gmail.com**
 
-- My portfolio: <a href="https://joecinng.com">Link</a>
+- My portfolio: <a href="https://joecinng.com" target="_blank">Link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
